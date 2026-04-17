@@ -95,7 +95,7 @@
     const imgEl = document.getElementById("viewer");
 
     function showImage() {
-  imgEl.src = "images/" + shuffled[index];
+  imgEl.src = "images/" + encodeURIComponent(shuffled[index]);
 }
 
     function nextImage() {
