@@ -1,2 +1,2 @@
-# music_image_shuffle
+# Major Triads String Set 1
 Random Image Generator for Eli. Uses images from Major Triads String Set 1.
